@@ -8,6 +8,17 @@
 - CS50 is a comprehensive introduction to the foundational concepts of computer science. 
 - The course covers a variety of topics through a mix of lectures, problem sets, and projects.
 
+#### Repository Structure
+
+- `Week_0_Scratch/`: Notes and assignments for Week 0.
+- `Week_1_C/`: Notes and assignments for Week 1
+- `Week_2_arrays/`: Notes and assignments for Week 2
+- `Week_3_algorithms/`: Notes and assignments for Week 3
+- `Week_4_memory/`: Notes and assignments for Week 4
+- `Week_5_DSA/`: Notes and assignments for Week 5
+- `Week_6_python/`: Notes and assignments for Week 6
+- `Week_7_SQL/`: Notes and assignments for Week 7
+
 ## Weekly Breakdown
 
 - **Week 0: Scratch**
@@ -58,13 +69,3 @@
   - Introduction to cybersecurity principles.
   - Concepts: Security threats, encryption, and best practices for secure coding.
 
-#### Repository Structure
-
-- `Week_0_Scratch/`: Notes and assignments for Week 0.
-- `Week_1_C/`: Notes and assignments for Week 1
-- `Week_2_arrays/`: Notes and assignments for Week 2
-- `Week_3_algorithms/`: Notes and assignments for Week 3
-- `Week_4_memory/`: Notes and assignments for Week 4
-- `Week_5_DSA/`: Notes and assignments for Week 5
-- `Week_6_python/`: Notes and assignments for Week 6
-- `Week_7_SQL/`: Notes and assignments for Week 7
