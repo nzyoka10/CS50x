@@ -1,0 +1,120 @@
+/* Universal Styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fef8f8;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
+
+/* Container Styles */
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 1200px;
+}
+
+/* Header Styles */
+.header {
+    background-color: #477bff;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.header h1 {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    font-size: 48px;
+    margin: 0;
+    font-weight: 700; /* Bolder weight */
+}
+
+/* Divider Styles */
+.divider {
+    height: 2px; 
+    background-color: #1a1919;
+    margin: 20px 0;
+    width: 100%;
+}
+
+/* Section Styles */
+.section {
+    padding: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    transition: background-color 0.15s ease-in-out;
+}
+
+.section:hover {
+    background-color: #f5f5f5;
+}
+
+/* Heading Styles */
+h2, h3 {
+    margin-top: 0;
+    padding: .8rem 0;
+    font-weight: 700; 
+    margin-bottom: 0.5rem;
+}
+
+/* Button and Input Styles */
+button, input[type="submit"] {
+    background-color: #d9edff;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    cursor: pointer;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #cce4ff;
+    border-color: #80bdff;
+}
+
+/* Input Field Styles */
+input[type="text"] {
+    line-height: 1.8;
+    width: 50%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+input[type="text"]:hover {
+    background-color: #f5f5f5;
+    border-color: #b3b3b3;
+}
+
+/* Feedback Message Styles */
+.feedback {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+.correct-feedback {
+    color: #1f9f3d; 
+}
+
+.incorrect-feedback {
+    color: #dc3546ca; 
+}
