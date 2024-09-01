@@ -1,0 +1,24 @@
+HTML Tags:
+1. <nav> - Used for the navigation bar.
+2. <h1> - Used for main headings.
+3. <p> - Used for paragraphs.
+4. <div> - Used for container layout.
+5. <img> - Used for images.
+6. <form> - Used for the contact form.
+7. <input> - Used for form fields.
+8. <textarea> - Used for a larger text input field.
+9. <button> - Used for the submit button.
+10. <script> - Used for including JavaScript.
+
+CSS Selectors:
+1. body - Styles the entire page.
+2. .container - Styles a container class.
+3. h1 - Styles all <h1> elements.
+4. .navbar-brand - Styles the brand element in the navbar.
+5. .form-control - Styles form input fields.
+
+JavaScript:
+- Added an alert that triggers when the page loads to greet the user.
+
+Bootstrap:
+- Used a Bootstrap navbar and button components to enhance design and layout.
