@@ -18,6 +18,8 @@
 - `Week_5_DSA/`: Notes and assignments for Week 5
 - `Week_6_python/`: Notes and assignments for Week 6
 - `Week_7_SQL/`: Notes and assignments for Week 7
+- `Week_8_Web/`: Notes and assignments for Week 8
+- `Week_9_Flask/`: Notes and assignments for Week 9
 
 ## Weekly Breakdown
 
